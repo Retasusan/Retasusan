@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Retasusan)
 
 <!-- status -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Retasusan}&theme={2077})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Retasusan&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={Retasusan}&theme={2077})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Retasusan}&theme={2077})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={Retasusan}&theme={2077}&utcOffset={9.0})
